@@ -1,2 +1,4 @@
 # Mi_repositorio
- MI reto 1
+ Buen dia, mi nombre es Dylan Puentes
+ Envio adjunto mi ejecutable con los Assets y demas componentes correpondientes a mi juego el ejecutable en en .exe para que pueda ser descargado.
+ Muchas gracias
